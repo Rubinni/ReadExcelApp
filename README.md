@@ -1,2 +1,2 @@
 # ReadExcelApp
-simple form that reads tables in excel using IronXL
+Simple C# form that reads tables from excel using IronXL
